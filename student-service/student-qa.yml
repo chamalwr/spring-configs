@@ -1,0 +1,9 @@
+name : "Ken Thompson"
+isActive: true
+courses:
+    -"Advanced Programming"
+    -"DevOps"
+    -"QA"
+    -"Database"
+    -"Software Architecture"
+env: qa

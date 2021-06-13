@@ -1,0 +1,8 @@
+course:
+  category:
+    code: "CS-100771"
+    name: "Computer Science"
+    type: "Information Engineering, Informatics and Statistics"
+
+env: default
+    

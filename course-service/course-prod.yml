@@ -1,0 +1,8 @@
+course:
+  category:
+    code: "BS-2928"
+    name: "Economic Analysis of International Institutions"
+    type: "Political Sciences, Sociology and Communications"
+
+env: prod
+    

@@ -1,0 +1,8 @@
+course:
+  category:
+    code: "ME-245642"
+    name: "Archaeological Materials Science"
+    type: "Mathematics, Physics and Natural Sciences"
+
+env: qa
+    

@@ -1,0 +1,9 @@
+name : "Dennis Ritchie"
+isActive: false
+courses:
+    -"Advanced Programming"
+    -"DevOps"
+    -"QA"
+    -"Database"
+    -"Software Architecture"
+env: default

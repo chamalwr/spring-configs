@@ -1,0 +1,9 @@
+name : "John Doe"
+isActive: false
+courses:
+    -"Advanced Programming"
+    -"DevOps"
+    -"QA"
+    -"Database"
+    -"Software Architecture"
+env: dev
